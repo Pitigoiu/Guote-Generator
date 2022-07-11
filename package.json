@@ -1,0 +1,12 @@
+{
+  "name": "quote-generator",
+  "version": "1.0.0",
+  "description": "Quote generator",
+  "main": "quotes.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html "
+  },
+  "author": "Pitigoiu",
+  "license": "ISC"
+}
